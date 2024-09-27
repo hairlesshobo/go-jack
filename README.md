@@ -1,13 +1,13 @@
-# go-jack [![GoDoc](https://godoc.org/github.com/xthexder/go-jack?status.svg)](https://godoc.org/github.com/xthexder/go-jack)
+# go-jack [![GoDoc](https://godoc.org/github.com/hairlesshobo/go-jack?status.svg)](https://godoc.org/github.com/hairlesshobo/go-jack)
 Go bindings for [Jack Audio Connection Kit](http://jackaudio.org/)
 
 ## Usage
 
-For a working passthrough example see [example/passthrough.go](https://github.com/xthexder/go-jack/blob/master/example/passthrough.go)
+For a working passthrough example see [example/passthrough.go](https://github.com/hairlesshobo/go-jack/blob/master/example/passthrough.go)
 
 **Import the package:**
 ```go
-import "github.com/xthexder/go-jack"
+import "github.com/hairlesshobo/go-jack"
 ```
 
 **Connect to an existing jack server:**

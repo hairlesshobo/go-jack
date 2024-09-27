@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/xthexder/go-jack"
+	"github.com/hairlesshobo/go-jack"
 )
 
 var (
